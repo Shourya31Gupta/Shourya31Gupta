@@ -1,5 +1,5 @@
 # 💫 About Me:
-Diploma student in Computer Engineering | Research Paper Author | Passionate about databases, tech events, and public speaking<br>I'm currently working on Deepening my understanding of database systems and UI development<br>I'm currently learning Advanced SQL, MongoDB, React, System Design<br>Ask me about Database concepts, event organizing, research writing, LinkedIn growth<br>Fun Fact I’ve represented my college at multiple MUNs, State Level Competitions and love designing posters and managing events!<br>
+Diploma student in Computer Engineering | Research Paper Author | Passionate about databases, tech events, and public speaking<br>I'm currently working on Deepening my understanding of database systems and UI development<br>I'm currently learning Advanced SQL, MongoDB, React, System Design & working on a Research Paper<br>Ask me about Database concepts, event organizing, research writing, LinkedIn growth<br>Fun Fact I’ve represented my college at multiple MUNs, State Level Competitions and love designing posters and managing events!<br>
 
 
 ## 🌐 Socials:
